@@ -30,7 +30,7 @@ void ofApp::setup() {
 	//string filepath;
 	//cout << "input filepath = ";
 	//cin >> filepath;
-	//cout << "\n“ü—Í‚³‚ê‚½”’l‚Í " << filepath << "‚Å‚·\n";
+	//cout << "inputFile : " << filepath << "\n";
 
 
 	std::ifstream ifs(filepath);
