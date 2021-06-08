@@ -14,5 +14,5 @@ string filepath = "data/1a04e3eab45ca15dd86060f189eb133.pts";
 //string filepath;
 //cout << "input filepath = ";
 //cin >> filepath;
-//cout << "\n“ü—Í‚³‚ê‚½”’l‚Í " << filepath << "‚Å‚·\n";
+//cout << "filePath : " << filepath << "‚Å‚·\n";
 ```
