@@ -1,5 +1,5 @@
 # What
-This is simple PointCloud(pts) Viewer
+This is a simple PointCloud(pts) Viewer
 
 ![Demo](./img.jpg "img01")
 
